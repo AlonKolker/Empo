@@ -1,0 +1,152 @@
+[{
+    "_id" : ObjectId("6362dad206edabb8f457e837"),
+    "position" : "manager",
+    "tasks" : [
+
+    ],
+    "manegerId" : "null",
+    "firstName" : "Joly",
+    "lastName" : "bar",
+    "employees" : [
+        "6362dad206edabb8f457e838",
+        "6362dad206edabb8f457e839",
+        "6362dad206edabb8f457e83a",
+        "6362dad206edabb8f457e83b",
+        "6362dad206edabb8f457e83c",
+        "6362dad206edabb8f457e83d",
+        "6362dad206edabb8f457e83e"
+    ],
+    "reports" : [
+
+    ],
+    "typeOfManeger" : "CTO"
+},
+{
+    "_id" : ObjectId("6362dad206edabb8f457e838"),
+    "position" : "manager",
+    "tasks" : [
+
+    ],
+    "manegerId" : "6362dad206edabb8f457e837",
+    "firstName" : "Guy",
+    "lastName" : "Kadosh",
+    "employees" : [
+
+    ],
+    "reports" : [
+
+    ],
+    "typeOfManeger" : "CEO"
+},
+{
+    "_id" : ObjectId("6362dad206edabb8f457e839"),
+    "position" : "employee",
+    "tasks" : [
+
+    ],
+    "manegerId" : "6362dad206edabb8f457e837",
+    "firstName" : "Alon",
+    "lastName" : "Kolker"
+},
+{
+    "_id" : ObjectId("6362dad206edabb8f457e83a"),
+    "position" : "employee",
+    "tasks" : [
+
+    ],
+    "manegerId" : "6362dad206edabb8f457e837",
+    "firstName" : "shalom",
+    "lastName" : "jonas"
+},
+{
+    "_id" : ObjectId("6362dad206edabb8f457e83b"),
+    "position" : "employee",
+    "tasks" : [
+
+    ],
+    "manegerId" : "6362dad206edabb8f457e837",
+    "firstName" : "jay",
+    "lastName" : "z"
+},
+{
+    "_id" : ObjectId("6362dad206edabb8f457e83c"),
+    "position" : "employee",
+    "tasks" : [
+
+    ],
+    "manegerId" : "6362dad206edabb8f457e837",
+    "firstName" : "Abbraham",
+    "lastName" : "Tal"
+},
+{
+    "_id" : ObjectId("6362dad206edabb8f457e83d"),
+    "position" : "employee",
+    "tasks" : [
+
+    ],
+    "manegerId" : "6362dad206edabb8f457e837",
+    "firstName" : "Golda",
+    "lastName" : "Meir"
+},
+{
+    "_id" : ObjectId("6362dad206edabb8f457e83e"),
+    "position" : "employee",
+    "tasks" : [
+
+    ],
+    "manegerId" : "6362dad206edabb8f457e837",
+    "firstName" : "Yuval",
+    "lastName" : "Rubin"
+},
+{
+    "_id" : ObjectId("6362dad206edabb8f457e83f"),
+    "position" : "manager",
+    "tasks" : [
+
+    ],
+    "manegerId" : "null",
+    "firstName" : "almog",
+    "lastName" : "bar",
+    "employees" : [
+
+    ],
+    "reports" : [
+
+    ],
+    "typeOfManeger" : "manager"
+},
+{
+    "_id" : ObjectId("6362dad206edabb8f457e840"),
+    "position" : "manager",
+    "tasks" : [
+
+    ],
+    "manegerId" : "null",
+    "firstName" : "Bill",
+    "lastName" : "Gates",
+    "employees" : [
+
+    ],
+    "reports" : [
+
+    ],
+    "typeOfManeger" : "manager"
+},
+{
+    "_id" : ObjectId("6362dad206edabb8f457e841"),
+    "position" : "manager",
+    "tasks" : [
+
+    ],
+    "manegerId" : "null",
+    "firstName" : "Jeff",
+    "lastName" : "Bessos",
+    "employees" : [
+
+    ],
+    "reports" : [
+
+    ],
+    "typeOfManeger" : "CTO"
+}
+]
