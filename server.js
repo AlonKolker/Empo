@@ -6,7 +6,7 @@ const organizationRoutes = require('./app/organizationRoutes');
 const app = express()
 app.use(express.json());
 app.use(cors())
-
+app.use(express.static('public'));
 app.use('/api/organization', organizationRoutes);
 
 const port = process.env.PORT || 3030;
